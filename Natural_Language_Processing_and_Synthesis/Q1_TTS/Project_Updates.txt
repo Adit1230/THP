@@ -1,0 +1,3 @@
+Text to speech library downloaded, Library imported. Model and vocorder downloaded
+Sample run completed.
+Read text from file and passed to model.

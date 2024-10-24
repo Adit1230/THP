@@ -1,0 +1,10 @@
+path: C:/Users/aditp/Desktop/Adit/Python programs/THP/Object_Detection/Q2_Object_Detection/Data
+train: images/Train
+val: images/Val
+
+#Classes
+names:
+ 0: Arm
+ 1: Head
+ 2: Leg
+ 3: Body
